@@ -1,4 +1,4 @@
 #!/bin/bash
-mv /tmp/betty /tmp/my_first-directory
+mv betty /tmp /tmp/my_first-directory
 
 
